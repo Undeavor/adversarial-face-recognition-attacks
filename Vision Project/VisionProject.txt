@@ -1,0 +1,9 @@
+Target : Face recognizer
+Way to bypass it without being caught : 
+- Ideally -> plug a small device on the camera that induces a real time perturbation on the image so the face does not get recognized BUT is imperceptible to the human eye
+- Reality -> just counter locally the image recognizer
+
+
+Two paths:
+- Just not be detected as a face
+- Be detected as another face ( nah just use deepfake bro )
